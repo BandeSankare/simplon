@@ -1,0 +1,16 @@
+{
+    "name": "bande/bandemvc",
+    "description": "BandeMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bandesankareMVC",
+            "email": "banasankare@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
