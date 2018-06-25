@@ -1,8 +1,7 @@
 
-# samanemvc
-# Ngor SECK
-# PHP 
+# bandemvc
+# Bande Sankare PHP 
 # MVC version 1.1
-# SamaneMVC is a PHP framework
-# ngorsecka@gmail.com
-# samanemvc@gmail.com
+# BandeMVC is a PHP framework
+# banasankare@gmail.com
+
